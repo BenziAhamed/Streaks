@@ -1,9 +1,13 @@
+![Streaks](LOGO.png)
+
 # Streaks
 Streaks is a task list workflow for maintaining task streaks. A streak is the number of days a task has been active. 
 
 It can be used as todo list that helps you to maintain a desired habit, or to keep track of outstanding ideas.
 
 The keyword to activate the workflow is `streaks`. Once activated, you will be show your **Today List** - this is a set of tasks that are active for today.
+
+![Streaks](gym.png)
 
 ## Usage
 

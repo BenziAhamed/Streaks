@@ -7,6 +7,8 @@ It can be used as todo list that helps you to maintain a desired habit, or to ke
 
 The keyword to activate the workflow is `streaks`. Once activated, you will be show your **Today List** - this is a set of tasks that are active for today.
 
+![Streaks](today.png)
+
 ## Usage
 
 Type `streaks` into Alfred to activate the workflow. You will be presented with the **Today List**.
